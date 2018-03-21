@@ -1,2 +1,2 @@
 # kubernetes
-google cloud kubernete
+google cloud kubernetes
